@@ -19,7 +19,7 @@ export default function Form() {
 
   return (
     <>
-      <h1>Ini Halaman Form</h1>
+      <h1>Ini Halaman Form lo isti</h1>
       {inputForm.todo}
       <form onSubmit={handleSubmit}>
         <label>
